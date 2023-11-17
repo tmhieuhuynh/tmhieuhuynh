@@ -1,7 +1,7 @@
 # Hieu Huynh 
 Hello everyone 👋 I have just finished my curriculum as an undergraduate student at Fulbright University Vietnam, and have been looking for a PhD position. 
 
-My main study is utilizing Density Functional Theory (DFT) simulation and Machine Learning (ML) to discover various properties of chemical bonds. To support my research, I have gained a deep understanding of the physics and chemistry knowledge on molecular and atomic levels. Additionally, data analysis and ML skills are two of my proudest strengths for handling not only 2D data but also data with higher dimensionality (e.g., images).
+My research has focused on utilizing quantum simulation and machine learning to investigate the structure-property relationships of Lewis acid-base adducts. To support my research, I have gained a deep understanding of the physics and chemistry knowledge on molecular and atomic levels. Additionally, data analysis and programming skills are two of my proudest strengths for handling not only 2D data but also data with higher dimensionality (e.g., images).
 
 ## Personal Information
 
