@@ -9,7 +9,11 @@ My research has focused on utilizing quantum simulation and machine learning to 
 
 &emsp; University: Fulbright University Vietnam
 
-&emsp; Email: hieu.huynh.190025@student.fulbright.edu.vn
+&emsp; University email: hieu.huynh.190025@student.fulbright.edu.vn
+
+&emsp; Personal email: htmhieu1012001@gmail.com
+
+&emsp; LinkedIn: https://www.linkedin.com/in/hieu-huynh-893b3229b/
 
 ## Publication
 
